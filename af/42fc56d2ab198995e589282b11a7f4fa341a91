@@ -1,0 +1,19 @@
+src/GaeaUnrealTools.uplugin
+  s_708b7f144faabf::t_d6b066f272af6e 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "af42fc56d2ab198995e589282b11a7f4fa341a91",
+  "prompts": {},
+  "sessions": {
+    "s_708b7f144faabf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cbd74183-81a4-41a1-b4cb-4adba5cce9b9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "B.N. Berrevoets <bert@berrevoets.net>"
+    }
+  }
+}
